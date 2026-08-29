@@ -14,7 +14,7 @@
   "dependencies": {
     "@meta-source/core": "workspace:*",
     "@meta-source/utils": "workspace:*",
-    "framer-motion": "^13.1.0",
+    "framer-motion": "^13.1.1",
     "p5": "^2.3.2",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
@@ -24,19 +24,19 @@
     "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.3.0",
     "@types/p5": "^1.7.0",
     "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
+    "@types/react-dom": "^19.2.5",
     "@types/three": "^0.185.4",
-    "@typescript-eslint/eslint-plugin": "^8.67.0",
-    "@typescript-eslint/parser": "^8.67.0",
-    "@vitejs/plugin-react": "^6.0.5",
+    "@typescript-eslint/eslint-plugin": "^8.68.0",
+    "@typescript-eslint/parser": "^8.68.0",
+    "@vitejs/plugin-react": "^6.1.0",
     "autoprefixer": "^10.5.4",
     "postcss": "^8.5.26",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
-    "vite": "^8.2.1",
+    "vite": "^8.2.2",
     "vitest": "^4.1.11"
   }
 }
